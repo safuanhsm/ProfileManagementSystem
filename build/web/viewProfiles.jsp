@@ -5,7 +5,7 @@
 <html>
 
 <body>
-
+<link rel="stylesheet" href="style.css">
 
 <h2>All Student Profiles</h2>
 

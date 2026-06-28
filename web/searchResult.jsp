@@ -10,6 +10,7 @@
 
 <html>
 <head>
+    <link rel="stylesheet" href="style.css">
     <title>Search Result</title>
 </head>
 
